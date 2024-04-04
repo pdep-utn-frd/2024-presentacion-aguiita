@@ -1,10 +1,2 @@
 # presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+Hola buenas, me llamo agustina mendez, tengo 21 y estudio sistemas. En mi tiempo libre me gusta andar en bici, salir a caminar, juntarme con mis amigos o con la flia, me gusta maquillarme, salir a bailar, escuchar musica, dibujar y sacar fotos.
